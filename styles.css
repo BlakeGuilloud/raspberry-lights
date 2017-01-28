@@ -1,0 +1,15 @@
+.red-bg {
+  background-color: red;
+}
+
+.green-bg {
+  background-color: green;
+}
+
+.yellow-bg {
+  background-color: yellow;
+}
+
+.no-bg {
+  background-color: inherit;
+}
