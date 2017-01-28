@@ -36,7 +36,7 @@ yellowButton.addEventListener('click', (e) => {
 });
 
 function put(obj) {
-  const request = new Request('http://servup.herokuapp.com/collections/mouse/588cc9385978720004861b99', {
+  const request = new Request('https://servup.herokuapp.com/collections/mouse/588cc9385978720004861b99', {
     method: 'PUT',
     mode: 'cors',
     body: JSON.stringify(obj),
